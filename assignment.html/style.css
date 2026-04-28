@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    color: black;
+}
+
+/* #th2{
+    line-height: 5px;
+    types: 1;
+} */
+
+.header_div{
+    background-color: green;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4px;
+}
+
+p{
+    font-weight: 500;
+    text-align: center;
+    font-size: 18px;
+}
+
+.p1 li{
+    font-size: 25px;
+    color: green;
+    font-weight: 700;
+}
+
+.c1{
+    font-size: 18px;
+    color: black;
+}
